@@ -51,7 +51,24 @@
   exit
   Exit from a process. If shell is the only process then logs out
 
-
+<h1>directory commans<h1>
+pwd
+Path of the present working directory
+mkdir dir
+A directory is created in the given name under the current directory
+mkdir dir1 dir2
+A number of sub-directories can be created under one stroke
+cd subdir
+Change Directory. If the subdir starts with / then path starts from root (absolute)
+otherwise from current working directory.
+Cd
+To switch to the home directory.
+cd /
+To switch to the root directory.
+cd ..
+To move back to the parent directory
+rmdir subdir
+Removes an empty sub-directory.
 
 
 
