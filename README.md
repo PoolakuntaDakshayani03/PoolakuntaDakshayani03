@@ -6,7 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---  date
+<!---
+  date
   Used to display the current system date and time.
   date +%D
   Displays date only
@@ -49,6 +50,3 @@
   To display the commands used by the user since log on.
   exit
   Exit from a process. If shell is the only process then logs out
-PoolakuntaDakshayani03/PoolakuntaDakshayani03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
